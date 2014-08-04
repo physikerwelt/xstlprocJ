@@ -1,0 +1,126 @@
+QueryID;TeXQuery
+1;$W(2,k)>2^{k}/k^{\varepsilon}$
+2;$(X,\Sigma)$
+3;$(p-1)!^{n}$
+4;$f_{\qvar{x0}}(z)=z^{2}+c$
+5;$\forall x\,\forall y\,P(x,y)\Leftrightarrow\forall y\,\forall x\,P(x,y)$
+6;$\alpha(x)$
+7;$\alpha(x)$
+8;$\alpha(x)$
+9;$|{\Psi}\rangle=\sum_{\qvar{x0}}\Gamma_{{\qvar{x1}}}^{{[1]i
+_{1}}}\lambda_{{\alpha_{1}}}^{{[1]}}\Gamma_{{\alpha_{\qvar{x2}}
+\alpha_{2}}}^{{[2]i_{\qvar{x3}}}}\lambda_{\qvar{x4}}^{{
+\qvar{x5}}}|{i_{1}i_{2}}\rangle|{\qvar{x6}}\rangle$
+10;$z*x\leq y$
+11;${\frac{d}{dx}}\left(\log_{c}x\right)={1\over x\ln c},\qquad c>0,c\neq 1$
+12;$\theta=n\times 137.508^{\circ},$
+13;$s_{V}({\mathcal{R}})$
+14;$\ell(m)$
+15;$bx-x^{2}$
+16;$\omega_{{k}}$
+17;${\mathbf{m}}_{1}$
+18;$r_{{ij}}$
+19;$Z=\sum_{{j}}g_{j}\cdot{\mathrm{e}}^{{\qvar{x0}}}$
+20;$S^{\prime}$
+21;$S^{\prime}$
+22;${\text{Ker}}(k_{*}-l_{*})\cong{\text{?{x0}}}(i_{*},j_{*}).$
+23;$D(G,H)=\sum_{{i=1}}^{{\qvar{x0}}}|F_{i}(G)-F_{\qvar{x1}}(H)|$
+24;$E_{{\text{?{x0}}}}=E_{t}+E_{{\qvar{x1}}}\,$
+25;$\lambda(L(B))\leq d$
+26;$L\left(C\right)\leq L\left(T\right)$
+27;$v={\frac{c}{n}}$
+28;$\sigma_{y}^{2}(\tau)={\frac{2\pi^{2}\tau}{3}}h_{{-2}}$
+29;$R_{{s\ normal}}={\sqrt{\qvar{x0}}}$
+30;$\phi_{1}=-30^{\circ}...+30^{\qvar{x0}}$
+31;$T_{c}$
+32;$T_{c}$
+33;$T_{\qvar{x0}}$
+34;$P_{1}(X)=P(X)/(X-\alpha_{\qvar{x0}})$
+35;$={\frac{k}{n}}.$
+36;$n=\prod_{{i=1}}^{r}p_{i}^{{\qvar{x0}}}$
+37;$H(j\omega)={\mathcal{F}}\{h(t)\}$
+38;$\pi/4$
+39;$(x+y)^{n}=\sum_{{\qvar{x0}}}^{n}{n\choose k}x^{{n-k}}y^{k}=\sum_{{
+\qvar{x1}}}^{n}{n\choose k}x^{{\qvar{x2}}}y^{{n-k}}.$
+40;$\ [A]_{t}=-kt+[A]_{0}$
+41;$q^{{\qvar{x0}}}$
+42;$\alpha(d)\leq\left({\sqrt{3/2}}+\varepsilon\right)^{d}$
+43;$f^{{\mu}}=-8\pi{G\over{3c^{4}}}\left({A\over 2}T_{{\alpha\beta}}+{B\over 2}T
+\eta_{{\alpha\beta}}\right)\left(\delta_{{\nu}}^{{\mu}}+u^{{\mu}}u_{{\nu}}
+\right)u^{{\alpha}}x^{{\nu}}u^{{\beta}}$
+44;${\frac{D_{g}u_{\qvar{x0}}}{Dt}}-f_{{0}}v_{a}-\beta yv_{g}=0$
+45;$I_{c}$
+46;$\,A\mapsto M\alpha(A)M^{{-1}},$
+47;$\Gamma_{{\infty}}$
+48;$Y=\beta T_{8}+IX$
+49;$\mu(A)={\begin{cases}1&{\mbox{ if }}0\in A\\
+0&{\mbox{ if }}0\notin A.\end{cases}}$
+50;$\lambda_{{in}}$
+51;$rpm_{{\qvar{x0}}}$
+52;$\underbrace{u_{1}({\mathbf{\qvar{x0}}},z_{1})=v_{1}+{\dot{u}}_{x}}_{
+\qvar{x1}}=\overbrace{-{\frac{\partial V_{x}}{\partial{
+\qvar{x2}}}}g_{x}({\mathbf{\qvar{x3}}})-k_{1}(\underbrace{
+z_{1}-u_{x}({\mathbf{x}})}_{\qvar{x4}})}^{{v_{1}}}\,+\,\overbrace{{
+\frac{\qvar{x5}}{\partial{\qvar{x6}}}}(\underbrace{f_{
+\qvar{x7}}({\qvar{x8}})+g_{x}({\mathbf{\qvar{x9}
+}})z_{1}}_{{{\qvar{x10}}{\text{ (i.e., }}{\frac{\operatorname{d}{
+\mathbf{\qvar{x11}}}}{\operatorname{\qvar{x12}}t}}{\text{?
+{x13}}}}})}^{{{\qvar{x14}}_{x}{\text{ (i.e., }}{\frac{\operatorname{
+d}u_{\qvar{x15}}}{\operatorname{d}t}}{\text{)}}}}$
+53;$E\left[{\hat{\sigma}}^{2}\right]={\frac{n-1}{n}}\sigma^{2}$
+54;${\mathsf{fv}}$
+55;$\sum_{x}\sum_{y}I(x,y)\,\!$
+56;${\boldsymbol{F}}_{r}$
+57;$0\rightarrow B\rightarrow A\oplus B\rightarrow A\rightarrow 0.$
+58;$(\nabla_{Y}T)(\alpha_{1},\alpha_{2},\ldots,X_{1},X_{2},\ldots)=Y(T(\alpha_{1},
+\alpha_{2},\ldots,X_{\qvar{x0}},X_{2},\ldots))$
+59;$\sum_{{n\in{\qvar{x0}}^{d}}}|\psi(t,n)|^{2}|n|\leq C$
+60;$p={{\frac{-x\pm{\sqrt{x^{\qvar{x0}}-4({\qvar{x1}})({\frac{
+\qvar{x2}}{\qvar{x3}}}-y)}}}{2({\frac{-gx^{2}}{
+\qvar{x4}}})}}}$
+61;$\left\{z\in H:\left|z\right|>1,\,\left|\,{\mbox{?{x0}}}(z)\,\right|<{\frac{1}{
+2}}\right\}$
+62;$T-\lambda I$
+63;$y\left(x\right)={{\mathop{\qvar{x0}}}}\left({{\rho}}\right){\frac{{{
+\qvar{x1}}}}{{{\qvar{x2}}}}}\left({x-{\qvar{x3}}
+}\right)+{\mu_{y}}.$
+64;$x=b\ $
+65;$H^{1}(K)={\qvar{x0}}$
+66;$P_{\qvar{x0}}={\mbox{?{x1}}}(E_{K}(S_{{i-1}}),x)\oplus C_{i}$
+67;${\frac{\partial f}{\partial x}}=f_{x}=\partial_{x}f.$
+68;$P_{x}=P-\{a\mid a\geq x\}$
+69;$\eta={\frac{work\ done}{heat\ absorbed}}={\frac{Q1-Q2}{Q1}}$
+70;$df={\partial f\over\partial x}dx+{\partial f\over\partial y}dy=pdx+vdy$
+71;$h_{{\qvar{x0}}}$
+72;$K_{\qvar{x0}}^{\qvar{x1}}(k):=T^{*}(k^{\times})/(a\otimes(
+1-a))$
+73;$\{C:K_{X}\cdot C=0\}$
+74;$\Theta\wedge(d\Theta)^{\qvar{x0}}\neq 0$
+75;$D\left(\rho u_{i}\right)/Dt\approx 0$
+76;$z_{{t}}=\lambda_{{1}}z_{{t-1}}+\varepsilon_{{t}}$
+77;$b_{3}$
+78;$b_{3}$
+79;$\Delta W=\int_{{V_{\qvar{x0}}}}^{{V_{2}}}p{\qvar{x1}}V\,\!$
+80;$\dim f(Z)>n$
+81;${\frac{d}{dt}}\log_{e}t={\frac{\qvar{x0}}{\qvar{x1}}}.$
+82;$h_{i}:X\to\{\qvar{x0}\}$
+83;$2\leq seqs\leq 6$
+84;$F=\{\qvar{x0}\}.$
+85;$X_{i}(\omega)=\omega_{i}$
+86;${\partial{L}\over\partial q_{i}}={\qvar{x0}}{\partial{
+\qvar{x1}}\over\partial{{\qvar{x2}}}}.$
+87;$x_{\qvar{x0}}$
+88;$\Pi_{n}$
+89;$\sigma^{2}=X^{T}VX,$
+90;$\int_{{{\mathbb{R}}^{n}}}f\,dx=\int_{0}^{\infty}\left\{\int_{\qvar{x
+0}}f\,dS\right\}\,dr.$
+91;$\{x,p_{x}\}_{{DB}}=\{y,p_{y}\}_{{DB}}={\frac{1}{2}}$
+92;$G_{{k,\sigma}}(y)=1-(1+ky/\sigma)^{{-1/k}}$
+93;$L(H_{B})\otimes C(X)$
+94;$\pi_{i}=2^{\qvar{x0}}{\tbinom{N}{i}}$
+95;$({\sqrt{p_{1}}},\cdots,{\sqrt{p_{n}}})$
+96;${\boldsymbol{s}}$
+97;${\mathbf{J^{T}W\ \Delta y}}$
+98;${\bar{V}}^{*}$
+99;$\;{\frac{\qvar{x0}}{\qvar{x1}}}\;$
+100;$y_{k}[n]$
