@@ -1,0 +1,25 @@
+#!/bin/bash
+# modified from http://rboci.blogspot.com/2012/10/command-line-xslt-20.html
+
+set -e
+
+XSL=`readlink -f "$1"`
+XML=`readlink -f "$2"`
+
+# get the absolute path of the executable even if a symlink was used
+DIR="$(dirname "$(readlink -f "$0")")"
+
+if [ -f "$XSL" ]; then
+    echo "use $XSL to transform"
+else
+   echo stylesheet does not exist
+   exit 1
+fi
+
+if [ -f "$XML" ]; then
+   echo "file $XML"
+   java -jar "$DIR"/target/xsltprocJ-1.0-SNAPSHOT-jar-with-dependencies.jar -IN "$XML" -XSL "$XSL"
+else
+   echo no file to transform
+   exit 1
+fi
