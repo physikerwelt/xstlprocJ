@@ -9,15 +9,12 @@ XML=`readlink -f "$2"`
 # get the absolute path of the executable even if a symlink was used
 DIR="$(dirname "$(readlink -f "$0")")"
 
-if [ -f "$XSL" ]; then
-    echo "use $XSL to transform" >$(tty)
-else
+if ! [ -f "$XSL" ]; then
    echo stylesheet does not exist
    exit 1
 fi
 
 if [ -f "$XML" ]; then
-   echo "file $XML" >$(tty)
    java -jar "$DIR"/target/xsltprocJ-1.0-SNAPSHOT-jar-with-dependencies.jar -s:"$XML" -xsl:"$XSL"
 else
    echo no file to transform
