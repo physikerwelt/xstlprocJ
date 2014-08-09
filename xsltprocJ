@@ -15,7 +15,7 @@ if ! [ -f "$XSL" ]; then
 fi
 
 if ! [ -d "$DIR"/target ]; then
-   mvn package -f "$DIR"
+   mvn package -f "$DIR"/pom.xml
 fi
 
 if [ -f "$XML" ]; then
